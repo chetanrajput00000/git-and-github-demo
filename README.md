@@ -1,3 +1,3 @@
 # git-and-github-demo
 <br>
-Author-Chetan Singh
+Author-Chetan Raj
